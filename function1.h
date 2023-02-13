@@ -1,5 +1,4 @@
 #include <iostream>
-#include "function1.cpp"
 #define N 4
 
 using namespace std;
