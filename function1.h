@@ -1,5 +1,7 @@
 #include <iostream>
+#include "function1.cpp"
 #define N 4
+
 using namespace std;
 void printBoard(int board [N][N]);
 bool isValid(int board [N][N], int row, int col);

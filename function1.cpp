@@ -44,5 +44,5 @@ bool checkSolution() {
       return false;
    }
    printBoard(board);
-   return true;
+  return true;
 }
