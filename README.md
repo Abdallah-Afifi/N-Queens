@@ -1,1 +1,1 @@
-# Assignment1
+# N-Queens
